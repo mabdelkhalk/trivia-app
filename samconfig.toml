@@ -1,0 +1,3 @@
+[default.deploy.parameters]
+stack_name = "trivia-app"
+region = "us-west-2"
