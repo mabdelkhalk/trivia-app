@@ -1,0 +1,1 @@
+export const WEBSOCKET_URL = 'wss://example.execute-api.us-west-2.amazonaws.com/Prod';
